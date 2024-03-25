@@ -1,0 +1,9 @@
+@charset "UTC-8";
+
+div#vinicius > pre {
+    display: none;
+}
+
+div#vinicius:hover > pre {
+    display: block;
+}
